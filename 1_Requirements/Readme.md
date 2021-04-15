@@ -32,7 +32,7 @@ Being one of the biggest system in Aviation we do have few basic requirements no
 6.Exiting from main application screen
 
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+![SWOT-Sample](https://github.com/adarishashank/AppliedSDLC/blob/main/1_Requirements/SWOT.png)
 
 # 4W&#39;s and 1&#39;H
 
