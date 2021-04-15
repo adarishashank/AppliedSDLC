@@ -59,7 +59,7 @@ Without ARS customers had to wait in line for seat reservation. ARS has improved
 # Detail requirements
 ## High Level Requirements:
 |ID | Description | Status (Implemented/Future)|
-
+| - | ----------- | -------------------------- |
 |HR01 | User shall be able to book their seats | Implemented|
 |HR02 |	User shall be able to view all reservations | Implemented| 
 |HR03 |	User shall be able to cancel reservation | Implemented |
