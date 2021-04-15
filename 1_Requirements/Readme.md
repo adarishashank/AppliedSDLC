@@ -38,30 +38,44 @@ Being one of the biggest system in Aviation we do have few basic requirements no
 
 ## Who:
 
-**TBD**
+For small to large travel and ticket agencies.
 
 ## What:
 
-**TBD**
+Many travel and ticket agencies that are not able to afford high ARS Management Systems. Without log in page agencies can easily reserve or cancel their customers booking.
 
 ## When:
 
-**TBD**
+In 1978, due to the economy and the emergence of new types of jets, government stopped controlling fares, prices, and routes, as well as market entry. That made the airline industry a free market new players could enter while existing carriers now could set their own prices and establish new routes.Seeing the opportunities, airlines started to share CRSs with non-competing carriers, opening access to multiple airline’s inventories via a single terminal. Carriers that participated in distribution through CRS had to pay a commission to be available through the platform. Those events in the market led to the emergence of a new term: Global Distribution System or GDS.Airlines now gained over 60 percent of bookings from travel and ticket agencies.
 
 ## Where:
 
-**TBD**
+This system is accepted Internationally.
 
 ## How:
 
-**TBD**
+Without ARS customers had to wait in line for seat reservation. ARS has improved the management of seat reservation/cancellation and maintaining the records.Airline Reservation System shoots up the sales of an airline company and gives a competitive edge.One of the primary reason for choosing airline reservation system is to increase the number of bookings of the flight ticket.
 
 # Detail requirements
 ## High Level Requirements:
 --- TBD in Tabular Format 
 -- ID | Description | Status (Implemented/Future)
-
+HR01 | User shall be able to book their seats | Implemented
+HR02 |	User shall be able to view all reservations | Implemented 
+HR03 |	User shall be able to cancel reservation | Implemented 
+HR04 |	User shall be able to produce new reservation and update | Implemented 	
+HR05 |	User shall be able to save records and read from a file | Implemented
+HR06 |	User shall be able to easily exit from screen	Techincal | Implemented
+HR07 |	User shall be able to easily book without log in page | Future 
 
 ##  Low level Requirements:
 --- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+-- ID | Description | Category 
+LR01 |	First page will display options 1,2,3,4,5 for Reservation, Cancellation, Display, View available flights & Exit respectively,any number or characters other than 1-5 are invalid | Techincal
+LR02 |	Able to book with help of passport number,full name,email address, and destination |	Techincal
+LR03 |	Their seat will be alloted by the system itself |	Techincal
+LR04 |	Able to display record with all information given during reserving seat |	Techincal
+LR05 |	During cancellation only passport number is needed but it should be valid otherwise system will display invalid passport number |	Techincal
+LR06 |	System will save records to file and also able to cancel record if reservation is cancelled |	Techincal
+LR05 |	Exit screen easily |	Technical
+LR06 |	After exiting, message is prompted that all records are saved	Techincal
