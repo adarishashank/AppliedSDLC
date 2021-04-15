@@ -58,24 +58,25 @@ Without ARS customers had to wait in line for seat reservation. ARS has improved
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
-HR01 | User shall be able to book their seats | Implemented
-HR02 |	User shall be able to view all reservations | Implemented 
-HR03 |	User shall be able to cancel reservation | Implemented 
-HR04 |	User shall be able to produce new reservation and update | Implemented 	
-HR05 |	User shall be able to save records and read from a file | Implemented
-HR06 |	User shall be able to easily exit from screen	Techincal | Implemented
-HR07 |	User shall be able to easily book without log in page | Future 
+|ID | Description | Status (Implemented/Future)|
+
+|HR01 | User shall be able to book their seats | Implemented|
+|HR02 |	User shall be able to view all reservations | Implemented| 
+|HR03 |	User shall be able to cancel reservation | Implemented |
+|HR04 |	User shall be able to produce new reservation and update | Implemented |	
+|HR05 |	User shall be able to save records and read from a file | Implemented|
+|HR06 |	User shall be able to easily exit from screen	Techincal | Implemented|
+|HR07 |	User shall be able to easily book without log in page | Future| 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Category 
-LR01 |	First page will display options 1,2,3,4,5 for Reservation, Cancellation, Display, View available flights & Exit respectively,any number or characters other than 1-5 are invalid | Techincal
-LR02 |	Able to book with help of passport number,full name,email address, and destination |	Techincal
-LR03 |	Their seat will be alloted by the system itself |	Techincal
-LR04 |	Able to display record with all information given during reserving seat |	Techincal
-LR05 |	During cancellation only passport number is needed but it should be valid otherwise system will display invalid passport number |	Techincal
-LR06 |	System will save records to file and also able to cancel record if reservation is cancelled |	Techincal
-LR05 |	Exit screen easily |	Technical
-LR06 |	After exiting, message is prompted that all records are saved	Techincal
+
+|ID | Description | Category| 
+| - | ----------- | -------- |
+|LR01 |	First page will display options 1,2,3,4,5 for Reservation, Cancellation, Display, View available flights & Exit respectively,any number or characters other than 1-5 are invalid | Techincal|
+|LR02 |	Able to book with help of passport number,full name,email address, and destination |	Techincal|
+|LR03 |	Their seat will be alloted by the system itself |	Techincal|
+|LR04 |	Able to display record with all information given during reserving seat |	Techincal|
+|LR05 |	During cancellation only passport number is needed but it should be valid otherwise system will display invalid passport number |	Techincal|
+|LR06 |	System will save records to file and also able to cancel record if reservation is cancelled |	Techincal|
+|LR05 |	Exit screen easily |	Technical|
+|LR06 |	After exiting, message is prompted that all records are saved |	Techincal|
