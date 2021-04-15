@@ -29,7 +29,7 @@ Being one of the biggest system in Aviation we do have few basic requirements no
 
 5.Updation of records
 
-
+6.Exiting from main application screen
 
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
