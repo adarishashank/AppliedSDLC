@@ -18,12 +18,18 @@ ARS offer a range of benefits, here are just a few of them:
 
 ## Defining Our System
 Being one of the biggest system in Aviation we do have few basic requirements noted down. They are:
+
 1.Reservation
+
 2.Save the data to file
+
 3.Display saved records
+
 4.Cancellation of records
+
 5.Updation of records
-6.
+
+
 
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
