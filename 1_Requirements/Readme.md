@@ -78,5 +78,5 @@ Without ARS customers had to wait in line for seat reservation. ARS has improved
 |LR04 |	Able to display record with all information given during reserving seat |	Techincal|
 |LR05 |	During cancellation only passport number is needed but it should be valid otherwise system will display invalid passport number |	Techincal|
 |LR06 |	System will save records to file and also able to cancel record if reservation is cancelled |	Techincal|
-|LR05 |	Exit screen easily |	Technical|
-|LR06 |	After exiting, message is prompted that all records are saved |	Techincal|
+|LR07 |	Exit screen easily |	Technical|
+|LR08 |	After exiting, message is prompted that all records are saved |	Techincal|
