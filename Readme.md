@@ -1,10 +1,9 @@
 # SDLC Activity Based Learning
 
-Visit [Pages for Report -optional](using github.io option)
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
-[![C/C++ CI](https://github.com/adarishashank/AppliedSDLC/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/adarishashank/AppliedSDLC/actions/workflows/cppcheck.yml) | [![Static Cppcheck](https://github.com/adarishashank/AppliedSDLC/actions/workflows/c-build.yml/badge.svg)](https://github.com/adarishashank/AppliedSDLC/actions/workflows/c-build.yml) [![Dynamic Valgrind](https://github.com/adarishashank/AppliedSDLC/actions/workflows/Valgrid@test.yml/badge.svg)](https://github.com/adarishashank/AppliedSDLC/actions/workflows/Valgrid@test.yml)| [![Unity - Unit Testing](https://github.com/adarishashank/AppliedSDLC/actions/workflows/unity@test.yml/badge.svg)](https://github.com/adarishashank/AppliedSDLC/actions/workflows/unity@test.yml)| [![Git Inspector](https://github.com/adarishashank/AppliedSDLC/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/adarishashank/AppliedSDLC/actions/workflows/gitinspector.yml)
+Build | Code Quality | Unity | Git Inspector | Valgrid
+------|----------|-------|--------------|--------
+[![C/C++ CI](https://github.com/adarishashank/AppliedSDLC/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/adarishashank/AppliedSDLC/actions/workflows/cppcheck.yml) | [![Static Cppcheck](https://github.com/adarishashank/AppliedSDLC/actions/workflows/c-build.yml/badge.svg)](https://github.com/adarishashank/AppliedSDLC/actions/workflows/c-build.yml) [![Codacy Check](https://app.codacy.com/gh/adarishashank/AppliedSDLC/dashboard?branch=main=Badge_Grade/badge.svg)](https://app.codacy.com/gh/adarishashank/AppliedSDLC/dashboard?branch=main=Badge_Grade)| [![Unity - Unit Testing](https://github.com/adarishashank/AppliedSDLC/actions/workflows/unity@test.yml/badge.svg)](https://github.com/adarishashank/AppliedSDLC/actions/workflows/unity@test.yml)| [![Git Inspector](https://github.com/adarishashank/AppliedSDLC/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/adarishashank/AppliedSDLC/actions/workflows/gitinspector.yml) | [![Valgrid](https://github.com/adarishashank/AppliedSDLC/actions/workflows/Valgrid@test.yml/badge.svg)](https://github.com/adarishashank/AppliedSDLC/actions/workflows/Valgrid@test.yml)
 
 
 ## Folder Structure
