@@ -14,6 +14,13 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 
+<!--lint disable no-duplicate-headings-->
+### Challenges Faced and How Was It Overcome
+1. Implementation using Multi File & Multifile Programming. With alot of experiementation in various ways successfully done.
+2. Github Actions like Unity and build. Successfully After a lot of research and from peer helps.
+3. Unit Testing in Implementation. Successfully passed the testcase by peer helps.
+4. As Application was static there are no privileged like Admin & Manager, It was a open-source so any one can contribute. By git pull the updates will be reflected in application.
+
 ## Contributors List and Summary
 
 | SF ID. | Name |
