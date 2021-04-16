@@ -35,7 +35,8 @@ void tearDown()
 	
 }stream;
 
-
+void test_details();
+void test_display();
 
 
 
