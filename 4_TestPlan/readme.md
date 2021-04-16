@@ -1,17 +1,12 @@
-# TEST PLAN:
+# TEST PLAN
 
-## Table no: High level test plan
-
-| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
+| **No.**| **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  H_01       |--------------------------------------------------------------|  ------------|-------------|----------------|Requirement based |
-|  H_02       |--------------------------------------------------------------|  ------------|-------------|----------------|Scenario based    |
-|  H_03       |--------------------------------------------------------------|  ------------|-------------|----------------|Boundary based    |
-
-## Table no: Low level test plan
-
-| **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
-|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  L_01       |--------------------------------------------------------------|  ------------|-------------|----------------|Requirement based |
-|  L_02       |--------------------------------------------------------------|  ------------|-------------|----------------|Scenario based    |
-|  L_03       |--------------------------------------------------------------|  ------------|-------------|----------------|Boundary based    |
+|1|To check if the input from the user is take correctly | User input->passport number |SUCCESS | SUCCESS | Requirement based| 
+|2|To check if the input from the user is take correctly|User input-> name | SUCCESS | SUCCESS | Requirement based |
+|3|To check if the input from the user is take correctly |User input-> email | SUCCESS | SUCCESS | Requirement based |
+|4|To check if the input from the user is take correctly |User input-> destination | SUCCESS | SUCCESS | Requirement based |
+|5|To check whether input from the user is displayed correctly|User input-> passport number| SUCCESS|  SUCCESS | Requirement based |
+|6|To check whether input from the user is displayed correctly|User input-> name| SUCCESS|SUCCESS | Requirement based |
+|7|To check whether input from the user is displayed correctly|User input->email| SUCCESS | SUCCESS | Requirement based |
+|8|To check whether input from the user is displayed correctly|User input->destination| SUCCESS | SUCCESS | Requirement based |
